@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Creates Zombie Apocalypse and spawns zombies everywhere similar to the one from GeorgeNotFound's 'Zombie Apocalypse'",
+        "name": "Zombie Apocalypse",
+        "uuid": "5acec833-c7d4-434a-b269-c78f0a792d7b",
+        "version": [ 0, 0, 1 ],
+        "min_engine_version": [ 1, 14, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Creates Zombie Apocalypse and spawns zombies everywhere similar to the one from GeorgeNotFound's 'Zombie Apocalypse'",
+            "type": "data",
+            "uuid": "1bd6c994-3f04-4ece-938a-a9c1aed981e1",
+            "version": [0, 0, 1]
+        }
+    ]
+}
